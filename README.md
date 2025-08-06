@@ -1,6 +1,6 @@
 ## Hi, I'm Amir!
 
-###### here is a frontend developer who is passionate about making things and admires simplecity.
+#### here is a frontend developer who is passionate about making things and admires simplecity.
 
 [![Gmail](https://img.shields.io/static/v1?logo=gmail&label=&message=Gmail&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)](mailto:itsannatar@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)](https://t.me/ItsAnnatar)
