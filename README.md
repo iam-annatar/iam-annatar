@@ -46,6 +46,12 @@ here is a frontend developer who is passionate about making things and admires s
 
 </div>
 
+<details>
+  <summary>More</summary>
+  
+
+## Stats
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -65,3 +71,5 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+</details>
