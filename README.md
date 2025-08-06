@@ -53,18 +53,16 @@ here is a frontend developer who is passionate about making things and admires s
 
 <!--START_SECTION:waka-->
 
-```go
-From: 06 July 2025 - To: 05 August 2025
-
-Total Time: 70 hrs 34 mins
-
-TypeScript   67 hrs 13 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   95.01 %
-Markdown     1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-CSS          47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-HTML         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-JSON         31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Text         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+```text
+TypeScript   8 hrs 9 mins    ●●●●●●●●●●●●●●●●●●●○○○○○○   75.00 %
+Markdown     1 hr 3 mins     ●●●○○○○○○○○○○○○○○○○○○○○○○   09.70 %
+CSS          37 mins         ●●○○○○○○○○○○○○○○○○○○○○○○○   05.70 %
+JSON         31 mins         ●○○○○○○○○○○○○○○○○○○○○○○○○   04.77 %
+HTML         15 mins         ●○○○○○○○○○○○○○○○○○○○○○○○○   02.38 %
+Text         13 mins         ●○○○○○○○○○○○○○○○○○○○○○○○○   02.08 %
+YAML         1 min           ○○○○○○○○○○○○○○○○○○○○○○○○○   00.28 %
+JavaScript   0 secs          ○○○○○○○○○○○○○○○○○○○○○○○○○   00.06 %
+Other        0 secs          ○○○○○○○○○○○○○○○○○○○○○○○○○   00.03 %
 ```
 
 <!--END_SECTION:waka-->
