@@ -55,16 +55,16 @@ here is a frontend developer who is passionate about making things and admires s
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 June 2023 - To: 05 August 2025
+From: 05 August 2024 - To: 05 August 2025
 
-Total Time: 1,726 hrs 56 mins
+Total Time: 780 hrs 49 mins
 
-TypeScript     1,091 hrs 9 mins>>>>>>>>>>>>>>>>---------   62.85 %
-JavaScript     394 hrs 28 mins >>>>>>-------------------   22.72 %
-CSS            120 hrs 58 mins >>-----------------------   06.97 %
-HTML           53 hrs 28 mins  >------------------------   03.08 %
-JSON           39 hrs 6 mins   >------------------------   02.25 %
-Other          9 hrs 15 mins   -------------------------   00.53 %
+TypeScript    670 hrs 7 mins  ️️️️️️️️️️️️️️️️️️️️️️◻◻◻   85.46 %
+JavaScript    67 hrs 5 mins   ️️️◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻   08.56 %
+JSON          17 hrs 15 mins  ️◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻   02.20 %
+CSS           10 hrs 58 mins  ️◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻   01.40 %
+SCSS          4 hrs 39 mins   ️◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻   00.59 %
+Other         3 hrs 21 mins   ️◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻   00.43 %
 ```
 
 <!--END_SECTION:waka-->
