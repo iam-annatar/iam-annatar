@@ -47,4 +47,13 @@ here is a frontend developer who is passionate about making things and admires s
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   8 hrs 9 mins    ██████████████████▓░░░░░░   75.00 %
+Markdown     1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+CSS          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+```
+
 <!--END_SECTION:waka-->
