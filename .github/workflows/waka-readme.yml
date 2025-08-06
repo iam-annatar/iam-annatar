@@ -26,7 +26,7 @@ jobs:
           BLOCKS: ○○○○●●●●●●●● # optional
           CODE_LANG: text # optional
           TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 8 # optional
           SHOW_TIME: true # optional
           # SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
