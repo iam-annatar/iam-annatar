@@ -1,10 +1,13 @@
-<div align="center">
-  
-  ## Hi, I'm Amir!
-  
-</div>
+## Hi, I'm Amir!
 
-<div align='center'>
+###### here is a frontend developer who is passionate about making things and admires simplecity.
+
+[![Gmail](https://img.shields.io/static/v1?logo=gmail&label=&message=Gmail&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)](itsAnnatar@gmail.com)
+[![Telegram](https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)](https://t.me/ItsAnnatar)
+[![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)](https://www.linkedin.com/in/amir-ebrahimpour-1263b7351/)
+[![Twitter](https://img.shields.io/static/v1?logo=x&label=&message=Twitter&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)](https://x.com/its_annatar)
+
+<div align='start'>
   
 ## Technologies and Tools
 
