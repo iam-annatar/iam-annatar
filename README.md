@@ -45,3 +45,6 @@ here is a frontend developer who is passionate about making things and admires s
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
