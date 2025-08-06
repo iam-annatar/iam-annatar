@@ -53,7 +53,7 @@ here is a frontend developer who is passionate about making things and admires s
 
 <!--START_SECTION:waka-->
 
-```text
+```python
 TypeScript   8 hrs 9 mins    ●●●●●●●●●●●●●●●●●●●○○○○○○   75.00 %
 Markdown     1 hr 3 mins     ●●●○○○○○○○○○○○○○○○○○○○○○○   09.70 %
 CSS          37 mins         ●●○○○○○○○○○○○○○○○○○○○○○○○   05.70 %
