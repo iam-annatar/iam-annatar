@@ -48,13 +48,12 @@ here is a frontend developer who is passionate about making things and admires s
 
 <details>
   <summary>More</summary>
-  
 
 ## Weekly Dev Stats
 
 <!--START_SECTION:waka-->
 
-```text
+```go
 From: 06 July 2025 - To: 05 August 2025
 
 Total Time: 70 hrs 34 mins
