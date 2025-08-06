@@ -6,6 +6,10 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+    # Also run on push to ensure it's active
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
@@ -21,9 +25,9 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: last_7_days # optional
+          BLOCKS: -> # optional
+          CODE_LANG: text # optional
+          TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
