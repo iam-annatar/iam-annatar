@@ -47,7 +47,7 @@ here is a frontend developer who is passionate about making things and admires s
 </div>
 
 <details>
-  <summary>More</summary>
+  <summary><strong>More</strong></summary>
 
 ## Weekly Dev Stats
 
