@@ -54,14 +54,13 @@ here is a frontend developer who is passionate about making things and admires s
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   5 hrs 13 mins   ▬▬▬▬▬▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈   45.16 %
-JavaScript   2 hrs 45 mins   ▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   23.83 %
-HTML         1 hr 35 mins    ▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   13.77 %
-JSON         1 hr 30 mins    ▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   13.08 %
-CSS          14 mins         ▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   02.13 %
-Git          12 mins         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   01.78 %
-Git Config   1 min           ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   00.16 %
-Other        0 secs          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   00.06 %
+TypeScript   2 hrs 57 mins   ▬▬▬▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   37.24 %
+JavaScript   2 hrs 38 mins   ▬▬▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   33.23 %
+JSON         1 hr 19 mins    ▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   16.66 %
+HTML         46 mins         ▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   09.75 %
+CSS          13 mins         ▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   02.88 %
+Git          0 secs          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   00.15 %
+Other        0 secs          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   00.05 %
 ```
 
 <!--END_SECTION:waka-->
