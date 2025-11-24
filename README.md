@@ -54,8 +54,8 @@ here is a frontend developer who is passionate about making things and admires s
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript    4 hrs 51 mins   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬┈┈┈   88.30 %
-Other         21 mins         ▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   06.60 %
+TypeScript    2 hrs 22 mins   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬┈┈┈┈┈   79.10 %
+Other         21 mins         ▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   12.05 %
 ```
 
 <!--END_SECTION:waka-->
