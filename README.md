@@ -38,6 +38,7 @@ here is a frontend developer who is passionate about making things and admires s
 ![yarn](https://img.shields.io/static/v1?logo=yarn&label=&message=yarn&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![pnpm](https://img.shields.io/static/v1?logo=pnpm&label=&message=pnpm&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![vercel](https://img.shields.io/static/v1?logo=vercel&label=&message=Vercel&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
+![payload](https://img.shields.io/static/v1?logo=payloadcms&label=&message=payload&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![markdown](https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
