@@ -28,6 +28,7 @@ here is a frontend developer who is passionate about making things and admires s
 ![react-query](https://img.shields.io/static/v1?logo=reactquery&label=&message=ReactQuery&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![swr](https://img.shields.io/static/v1?logo=swr&label=&message=Swr&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
+![zustand](https://img.shields.io/static/v1?logo=zustand&label=&message=Zustand&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![vite](https://img.shields.io/static/v1?logo=vite&label=&message=Vite&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Webpack](https://img.shields.io/static/v1?logo=webpack&label=&message=Webpack&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Babel](https://img.shields.io/static/v1?logo=Babel&label=&message=Babel&color=1f252b&logoWidth=20&logoColor=EEE&style=flat-square)
