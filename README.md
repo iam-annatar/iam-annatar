@@ -58,9 +58,8 @@ here is a frontend developer who is passionate about making things and admires s
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   26 mins               ▬▬▬▬▬▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈   45.62 %
-JavaScript   25 mins               ▬▬▬▬▬▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈   43.93 %
-JSON         6 mins                ▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   10.45 %
+JSON         5 mins                ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬┈┈┈┈┈┈┈   70.46 %
+TypeScript   2 mins                ▬▬▬▬▬▬▬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈   29.54 %
 ```
 
 <!--END_SECTION:waka-->
